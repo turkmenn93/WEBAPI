@@ -1,0 +1,128 @@
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.exe
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.deps.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.runtimeconfig.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.runtimeconfig.dev.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.csproj.AssemblyReference.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.AssemblyInfoInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.AssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\scopedcss\bundle\UdemyWEBAPI.styles.css
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\staticwebassets\UdemyWEBAPI.StaticWebAssets.Manifest.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.RazorTargetAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.csproj.CopyComplete
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\refint\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.genruntimeconfig.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\obj\Debug\net5.0\ref\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API KENAN HOCA\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.exe
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.deps.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.runtimeconfig.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.runtimeconfig.dev.json
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\UdemyWEBAPI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.csproj.AssemblyReference.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.AssemblyInfoInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.AssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\scopedcss\bundle\UdemyWEBAPI.styles.css
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\staticwebassets\UdemyWEBAPI.StaticWebAssets.Manifest.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.RazorTargetAssemblyInfo.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.csproj.CopyComplete
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\refint\UdemyWEBAPI.dll
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.pdb
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\UdemyWEBAPI.genruntimeconfig.cache
+C:\Users\eeeab\OneDrive\Masaüstü\KOMPLE\WEB API YSK\UdemyWEBAPI\obj\Debug\net5.0\ref\UdemyWEBAPI.dll
